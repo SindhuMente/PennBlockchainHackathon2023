@@ -1,4 +1,4 @@
 # Charity Chain
 ## A Web3 Application for Disaster Relief
 
-Team: Ahmed, Sindhu, Nathaniel, Sean
+Team: Ahmed, Sindhu, Sean
